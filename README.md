@@ -1,9 +1,9 @@
 # About Me :
 Hi, I’m **Nguyen Dang Khoa**
-* **Computer Science** student at **Ho Chi Minh City University of Technology (HCMUT)** 
-* **AI Engineer Intern** with a strong passion for **Computer Vision** 
-* Proficient in working within international environments using **Japanese** and **English**
-* Interested in Machine Learning fine-tuning and Data Augmentation [cite: 6]
+**Computer Science** student at **Ho Chi Minh City University of Technology (HCMUT)** 
+**AI Engineer Intern** with a strong passion for **Computer Vision** 
+Proficient in working within international environments using **Japanese** and **English**
+Interested in Machine Learning fine-tuning and Data Augmentation [cite: 6]
 
 # Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
