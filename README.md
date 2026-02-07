@@ -1,5 +1,5 @@
 # About Me :
-Hi, I’m **Nguyen Dang Khoa**
+Hi, I’m **Nguyen Dang Khoa** <br>
 **Computer Science** student at **HCMUT - VNU** <br>
 **AI Engineer Intern** with a strong passion for **Computer Vision** <br>
 Proficient in **Japanese** and **English** <br>
