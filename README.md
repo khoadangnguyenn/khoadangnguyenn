@@ -1,8 +1,8 @@
 # About Me :
 Hi, I’m **Nguyen Dang Khoa**
-**Computer Science** student at **Ho Chi Minh City University of Technology (HCMUT)** <br>
+**Computer Science** student at **HCMUT - VNU** <br>
 **AI Engineer Intern** with a strong passion for **Computer Vision** <br>
-Proficient in working within international environments using **Japanese** and **English** <br>
+Proficient in **Japanese** and **English** <br>
 Interested in Machine Learning fine-tuning and Data Augmentation.
 
 # Tech Stack
