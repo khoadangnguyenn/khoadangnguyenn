@@ -1,5 +1,5 @@
 # About Me :
-Hi, I’m **Nguyen Dang Khoa** [cite: 1]
+Hi, I’m **Nguyen Dang Khoa**
 * **Computer Science** student at **Ho Chi Minh City University of Technology (HCMUT)** 
 * **AI Engineer Intern** with a strong passion for **Computer Vision** 
 * Proficient in working within international environments using **Japanese** and **English**
@@ -10,24 +10,25 @@ Hi, I’m **Nguyen Dang Khoa** [cite: 1]
 
 # Projects
 
-### [Autonomous Vision Interface for Lite3](https://github.com/yourusername/project-link) (Jan 2026 - Present)
+### [Autonomous Vision Interface for Lite3](https://github.com/khoadangnguyenn/Autonomous-Vision-Interface-for-Lite3) (Jan 2026 - Present)
 * Designed an end-to-end vision-based control pipeline for the **Deep Robotics Lite3** quadruped robot.
 * Integrated **YOLO-based detection** and **Coverage Path Planning (CPP)** for autonomous scanning.
 * **Tech:** Python (Flask), OpenCV, YOLO, CPP.
 
-### [AI Agent for Video Retrieval](https://github.com/yourusername/project-link) (Jul 2025 - Oct 2025)
+### [AI Agent for Video Retrieval](https://github.com/khoadangnguyenn/Video-Retrieval-AI-Agent) (Jul 2025 - Oct 2025)
 * Built a multimodal system for large-scale video retrieval using **visual embeddings** and **RAG**.
 * Designed a scalable backend for efficient search over national big data repositories.
 * **Tech:** PyTorch, Hugging Face, YOLO, Vector Database, RAG.
 
-### [Chatbot AI for E-commerce](https://github.com/yourusername/project-link) 
+### [Chatbot AI for E-commerce](https://github.com/khoadangnguyenn/E-Commerce-Chatbot-AI) (Mar 2025 – Jun 2025)
 * Developed an NLP chatbot integrated with **Messenger, Zalo OA, and Telegram**.
 * Implemented vector-based product retrieval and affiliate link recommendations.
 * **Tech:** FastAPI, NLP, Vector Database.
 
 # Extracurricular & Awards
-* **Semi-finalist** - SME Optimizer (Web3 & AI Ideathon)
-* **Top 40** - BKInnovation: Built blockchain-integrated IoT system for data integrity
+* **SME Optimizer Solution** (Web3 & AI Ideathon): Designed an AI-based SME optimizer solution integrating Web3 for small business efficiency. Advanced to Semi-final round among top teams nationwide.
+* **Blockchain-integrated IoT System**: Built a multimodal AI system for large-scale video retrieval from a national big data repository, integrating
+visual embeddings, audio features, and RAG-based retrieval for accurate and efficient search.
 
 ## Contact Me
 
