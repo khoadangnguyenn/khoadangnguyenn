@@ -35,7 +35,7 @@ visual embeddings, audio features, and RAG-based retrieval for accurate and effi
 | Method | Link |
 | :--- | :--- |
 | <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="20"/> | [knd.khoanguyen@gmail.com](mailto:knd.khoanguyen@gmail.com) |
-| <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/> | [Khoa Dang Nguyen](https://www.linkedin.com/in/khoadangnguyenn/) |
+| <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/> | [Khoa Nguyen Dang](https://www.linkedin.com/in/khoadangnguyenn/) |
 | <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="20"/> | [Nguyễn Đăng Khoa](https://www.facebook.com/nguyen.dang.khoa.031005/) |
 | <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20"/> | [GitHub Profile](https://github.com/yourgithubusername) |
 
