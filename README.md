@@ -9,7 +9,6 @@ I enjoy exploring, learning, and applying technology to solve real-world problem
 ![Vietnamese](https://img.shields.io/badge/Vietnamese-DA251D?style=for-the-badge&logo=https://flagcdn.com/w20/vn.png&logoColor=FFCD00)
 ![English](https://img.shields.io/badge/English-00247D?style=for-the-badge&logo=https://flagcdn.com/w20/gb.png&logoColor=white)
 ![Japanese](https://img.shields.io/badge/Japanese-FFFFFF?style=for-the-badge&logo=https://flagcdn.com/w20/jp.png&logoColor=BC002D)
-<img src="https://img.shields.io/badge/Vietnamese-DA251D?style=for-the-badge"> <img src="https://flagcdn.com/w80/vn.png" height="28">
 # Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
