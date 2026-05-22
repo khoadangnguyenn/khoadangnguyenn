@@ -1,7 +1,7 @@
 # About Me
 Hi, I’m **Nguyen Dang Khoa** <br>
 **Computer Science** student at **HCMUT - VNU** <br>
-**AI Engineer Intern** with a strong passion for **Computer Vision, Vision-Language Models and also Natural Language Processing** <br>
+**AI Engineer Intern** with a strong passion for **Computer Vision, Vision-Language Models** <br>
 Proficient in **Japanese** and **English**. <br>
 I enjoy exploring, learning, and applying technology to solve real-world problems.
 
