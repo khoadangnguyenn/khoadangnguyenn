@@ -13,8 +13,13 @@ I enjoy exploring, learning, and applying technology to solve real-world problem
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 # Projects
+### [NeuroDrive-K: Path Planning for Autonomous Driving ](https://github.com/khoadangnguyenn/NeuroDrive-K) (Mar 2026 - May 2026)
+* Designing the hybrid architecture bridging Machine Learning, Bayesian Inference, Rule-based systems, dynamic Cost Maps.
+* Building the core Path Planning module via A∗ search, consistently maintaining a sub-35ms processing time for real-time navigation.
+* Training and fine-tuning XGBoost models, hitting 78.1% accuracy for traffic behavior prediction and an R2 of 0.9946 for dynamic risk scoring.
+* **Tech:** Python, A* Search, Bayesian Inference, Machine Learning (XGBoost).
 
-### [Autonomous Vision Interface for Lite3](https://github.com/khoadangnguyenn/Autonomous-Vision-Interface-for-Lite3) (Jan 2026 - Present)
+### [Autonomous Vision Interface for Lite3](https://github.com/khoadangnguyenn/Autonomous-Vision-Interface-for-Lite3) (Jan 2026 - Apr 2026)
 * Designed an end-to-end vision-based control pipeline for the **Deep Robotics Lite3** quadruped robot.
 * Integrated **YOLO-based detection** and **Coverage Path Planning (CPP)** for autonomous scanning.
 * **Tech:** Python (Flask), OpenCV, YOLO, CPP.
