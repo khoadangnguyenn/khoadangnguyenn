@@ -13,6 +13,12 @@ I enjoy exploring, learning, and applying technology to solve real-world problem
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 # Projects
+### [Neuro-Symbolic RAG Framework](https://github.com/khoadangnguyenn/Neuro-Symbolic-RAG) (Apr 2026 - Jun 2026)
+* Architected a Neuro-Symbolic HybridDB to eliminate LLM hallucinations, integrating VectorDB (ChromaDB) for semantic retrieval and GraphDB (NetworkX) for causal topology and PageRank scoring.
+* Engineered a multi-stage retrieval pipeline using an Adaptive Domain Router, Gemma-1B for query expansion, Cross-Encoder reranking, and Steiner Tree subgraph extraction for high-precision contextual grounding.
+* Deployed a Dual-LLM orchestration pipeline (Qwen2.5 & Gemma 3) featuring a highly secure, isolated Python Sandbox Executor (Z3 Solver & SymPy) with strict module constraints for precise code generation.
+* **Tech:** Python, RAG, LLMs, ChromaDB, NetworkX, SymPy, Z3 Solver.
+
 ### [NeuroDrive-K: Path Planning for Autonomous Driving ](https://github.com/khoadangnguyenn/NeuroDrive-K) (Mar 2026 - May 2026)
 * Designing the hybrid architecture bridging Machine Learning, Bayesian Inference, Rule-based systems, dynamic Cost Maps.
 * Building the core Path Planning module via A∗ search, consistently maintaining a sub-35ms processing time for real-time navigation.
