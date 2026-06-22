@@ -25,11 +25,6 @@ I enjoy exploring, learning, and applying technology to solve real-world problem
 * Training and fine-tuning XGBoost models, hitting 78.1% accuracy for traffic behavior prediction and an R2 of 0.9946 for dynamic risk scoring.
 * **Tech:** Python, A* Search, Bayesian Inference, Machine Learning (XGBoost).
 
-### [Autonomous Vision Interface for Lite3](https://github.com/khoadangnguyenn/Autonomous-Vision-Interface-for-Lite3) (Jan 2026 - Apr 2026)
-* Designed an end-to-end vision-based control pipeline for the **Deep Robotics Lite3** quadruped robot.
-* Integrated **YOLO-based detection** and **Coverage Path Planning (CPP)** for autonomous scanning.
-* **Tech:** Python (Flask), OpenCV, YOLO, CPP.
-
 ### [AI Agent for Video Retrieval](https://github.com/khoadangnguyenn/Video-Retrieval-AI-Agent) (Jul 2025 - Oct 2025)
 * Built a multimodal system for large-scale video retrieval using **visual embeddings** and **RAG**.
 * Designed a scalable backend for efficient search over national big data repositories.
