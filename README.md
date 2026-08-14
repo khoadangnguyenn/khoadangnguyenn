@@ -2,7 +2,7 @@
 Hi, I’m Nguyen Dang Khoa <br>
 Junior Computer Science student at HCMUT - VNU <br>
 AI Researcher & Engineer with a strong passion for Computer Vision and Vision-Language Models <br>
-Proficient in Japanese** and English. <br>
+Proficient in Japanese and English, able to work in international environments <br>
 I enjoy exploring, learning, and applying technology to solve real-world problems.
 
 # Languages
